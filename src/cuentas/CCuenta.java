@@ -5,7 +5,7 @@
 package cuentas;
 
 /**
- *
+ *.
  * @author USER
  */
 public class CCuenta {

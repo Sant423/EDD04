@@ -18,7 +18,7 @@ public class Main {
         operativa_cuenta(i);
     }
 
-    private static void operativa_cuenta(float cantidad) {
+    private static void operativa_cuenta(float cantidade) {
         CCuenta cuenta1;
         double saldoActual;
         cuenta1 = new CCuenta("Antonio López","1000-2365-85-1230456789",2500,0);
